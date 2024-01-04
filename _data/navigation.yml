@@ -4,14 +4,9 @@ main:
   - title: "Resume"
     url: /resume/
 
-  - title: "Research"
-    url: /research/  
-
   - title: "Project Portfolio"
-    url: /projects/
-  
-  - title: "Game Development"
-    url: /gamedev/
+    url: /projects_allie/
+
 
   # - title: "Blog Posts"
   #   url: /year-archive/
