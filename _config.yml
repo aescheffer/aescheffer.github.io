@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Scheffer"
+  name             : "Allison Scheffer"
   avatar           : "profile.png"
-  bio              : "Graduate Student at the University of Michigan"
-  location         : "Ann Arbor, MI"
+  bio              : "Computer Science Student at the Grand Valley State University"
+  location         : "Grand Rapids, MI"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "drewskis@umich.edu"
+  email            : "scheffea@mail.gvsu.edu" # schefferea at mail dot gvsu dot edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "schefferac2020"
+  github           : "aescheffer"
   google_plus      :
   keybase          :
   instagram        :
